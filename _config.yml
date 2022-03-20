@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               Tianfu Robotics
+url:                 https://tianfu.kanzhi.tech
 baseurl:             ""
 
 markdown:            kramdown
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Kanzhi Wu
+  url:               kanzhi.tech
+  email:             kanzhi.wu@gmail.com
 
 plugins:
   - jekyll-coffeescript
